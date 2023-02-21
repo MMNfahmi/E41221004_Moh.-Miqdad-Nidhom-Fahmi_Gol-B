@@ -40,6 +40,7 @@ public class PK1 {
         elemen();
         array1D();
         array2D();
+        
     }
     
 }
